@@ -1,0 +1,118 @@
+C:\PRUEBA 1\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.exe
+C:\PRUEBA 1\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.deps.json
+C:\PRUEBA 1\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.runtimeconfig.json
+C:\PRUEBA 1\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.dll
+C:\PRUEBA 1\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.pdb
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.AssemblyReference.cache
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form1.resources
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.GenerateResource.cache
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfoInputs.cache
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfo.cs
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.CoreCompileInputs.cache
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.dll
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\refint\pjPrueba.dll
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.pdb
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.genruntimeconfig.cache
+C:\PRUEBA 1\Prueba1\pjPrueba\obj\Debug\net6.0-windows\ref\pjPrueba.dll
+E:\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.exe
+E:\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.deps.json
+E:\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.runtimeconfig.json
+E:\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.dll
+E:\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.pdb
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.AssemblyReference.cache
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form1.resources
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.GenerateResource.cache
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfoInputs.cache
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfo.cs
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.CoreCompileInputs.cache
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.dll
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\refint\pjPrueba.dll
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.pdb
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.genruntimeconfig.cache
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\ref\pjPrueba.dll
+E:\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Properties.Resources.resources
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.exe
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.deps.json
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.runtimeconfig.json
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.dll
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.pdb
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.AssemblyReference.cache
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form1.resources
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Properties.Resources.resources
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.GenerateResource.cache
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfoInputs.cache
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfo.cs
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.dll
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\refint\pjPrueba.dll
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.pdb
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.genruntimeconfig.cache
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\ref\pjPrueba.dll
+C:\Users\JADPA-25\Source\Repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Menu.resources
+C:\Users\JADPA-25\source\repos\Curso-V\Prueba1\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form2.resources
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.exe
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.deps.json
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.runtimeconfig.json
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.dll
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.pdb
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.AssemblyReference.cache
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form1.resources
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form2.resources
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form3.resources
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Menu.resources
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Properties.Resources.resources
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.GenerateResource.cache
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfoInputs.cache
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfo.cs
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.CoreCompileInputs.cache
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.dll
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\refint\pjPrueba.dll
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.pdb
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.genruntimeconfig.cache
+C:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\ref\pjPrueba.dll
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.exe
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.deps.json
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.runtimeconfig.json
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.dll
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.pdb
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.AssemblyReference.cache
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form1.resources
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form2.resources
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form3.resources
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Menu.resources
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Properties.Resources.resources
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.GenerateResource.cache
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.GeneratedMSBuildEditorConfig.editorconfig
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfoInputs.cache
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfo.cs
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.CoreCompileInputs.cache
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.dll
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\refint\pjPrueba.dll
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.pdb
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.genruntimeconfig.cache
+E:\zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\pjPrueba\obj\Debug\net6.0-windows\ref\pjPrueba.dll
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.exe
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.deps.json
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.runtimeconfig.json
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.dll
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\bin\Debug\net6.0-windows\pjPrueba.pdb
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.AssemblyReference.cache
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form1.resources
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form2.resources
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Form3.resources
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Menu.resources
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.Properties.Resources.resources
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.GenerateResource.cache
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfoInputs.cache
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.AssemblyInfo.cs
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.csproj.CoreCompileInputs.cache
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.dll
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\refint\pjPrueba.dll
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.pdb
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\pjPrueba.genruntimeconfig.cache
+E:\Prueba 1 de Josthim Hernandez\pjPrueba\obj\Debug\net6.0-windows\ref\pjPrueba.dll
